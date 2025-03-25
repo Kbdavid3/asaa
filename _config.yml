@@ -1,2 +1,8 @@
-mime_types:
-  application/json: ['apple-app-site-association']
+include:
+  - apple-app-site-association.json
+
+defaults:
+  - scope:
+      path: "apple-app-site-association.json"
+    values:
+      mime_type: application/json
