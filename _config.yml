@@ -1,8 +1,0 @@
-include:
-  - .well-known/apple-app-site-association
-
-defaults:
-  - scope:
-      path: ".well-known/apple-app-site-association"
-    values:
-      mime_type: application/json
