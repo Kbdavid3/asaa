@@ -1,0 +1,19 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "FBYKQQC3UU.kiccbacc",
+                "paths": [
+                    "/events/view/*",
+                    "/auth/callback"
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "FBYKQQC3UU.kiccbacc"
+        ]
+    }
+}
