@@ -1,8 +1,0 @@
-include:
-  - apple-app-site-association.json
-
-defaults:
-  - scope:
-      path: "apple-app-site-association.json"
-    values:
-      mime_type: application/json
