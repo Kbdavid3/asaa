@@ -5,9 +5,15 @@
             {
                 "appID": "FBYKQQC3UU.kiccbacc",
                 "paths": [
-                    "/event/*"
+                    "/events/view/*",
+                    "/auth/callback"
                 ]
             }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "FBYKQQC3UU.kiccbacc"
         ]
     }
 }
